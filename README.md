@@ -65,6 +65,7 @@ Jan 2022 – Present | Hyderabad, India
 ## 📚 Education
 
 **MTECH in Software Engineering**
+
 Bits-Pilani Hyderabad
 Mar 2022 - Mar 2026
 
