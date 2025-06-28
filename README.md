@@ -10,7 +10,7 @@ Email: tejavoosa427@gmail.com / tvoosa@gmail.com
 
 ## 🚀 About Me
 
-I'm a passionate Data Engineer with hands-on experience designing and building scalable, cost-efficient data pipelines for large-scale AdTech and media applications. At LTIMindtree, I build robust solutions using AWS, GCP, Python, PySpark, and Airflow, driving efficiency and innovation in cloud data workflows. I love tackling big data challenges, modernizing legacy systems, and optimizing cloud costs.
+I'm a passionate Data Engineer with hands-on experience designing and building scalable, cost-efficient data pipelines for large-scale AdTech and media applications. At LTIMindtree, I build robust solutions using AWS, GCP, Python, PySpark, Sqland Airflow, driving efficiency and innovation in cloud data workflows. I love tackling big data challenges, modernizing legacy systems, and optimizing cloud costs.
 
 ---
 
